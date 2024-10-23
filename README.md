@@ -11,8 +11,8 @@ This project involves tracking vehicles, detecting lane changes, and estimating 
 - Displays vehicle types and counts on the frame.
 
 ### Demo Video
-[Click here to view the demo video](https://github.com/your-username/your-repo/raw/main/path-to-your-video.mp4)
+[Click here to view the demo video](https://github.com/inbavel11/Vehicle-Count-Using-Deep-Learning-/blob/main/output_with_extra_features.mp4)
 
 Or preview:
 
-![Video Preview](https://github.com/your-username/your-repo/raw/main/path-to-your-preview.gif)
+![Video Preview](https://github.com/inbavel11/Vehicle-Count-Using-Deep-Learning-/blob/main/output_with_extra_features.mp4)
